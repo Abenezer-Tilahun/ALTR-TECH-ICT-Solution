@@ -2,7 +2,7 @@
 
 > This is a business  project being built for ICT Solution PLC which provides services and prodcut for customers.
 ![screenshot](image/Screen-shot.png)
-Our goal here is to Build Business based  website where you can get information, services and product provided by the ICT Solution PLC click [here](  https://abenezer-tilahun.github.io/ALTR-TECH-ICT-Solution/) to see deployed live version
+Our goal here is to Build Business based  website where you can get information, services and product provided by the ICT Solution PLC click [here](https://abenezer-tilahun.github.io/ALTR-TECH-ICT-Solution/) to see deployed live version
 
 ### Features implemented so far are:
 
